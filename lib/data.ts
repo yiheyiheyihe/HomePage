@@ -49,7 +49,7 @@ export const projectsData = [
         tags: ["Web", "Halo", "Blog"],
         imageUrl: Blog,
         projectUrl: 'https://github.com/chengzhongxue/halo-theme-hao',
-        demoUrl: 'https://www.mysticstars.cn',
+        demoUrl: 'https://rainn.asia',
     },
     {
         title: "GHS 2024",
